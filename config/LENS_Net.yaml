@@ -1,0 +1,8 @@
+train:
+  epoch: 1000
+  lr: 1e-4
+  batchsize: 1
+  trainsize: 352
+  clip: 0.5
+  decay_rate: 0.1
+  decay_epoch: 30
