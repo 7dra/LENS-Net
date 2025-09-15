@@ -8,8 +8,8 @@ The source code is available at https://github.com/7dra/LENS-Net.
 
 ![Description](LENS-Net.png)
 # Train process
-### python train.py
+######### python train.py
 # Test process
-### python inference.py
-### python metric.py
+######### python inference.py
+######### python metric.py
 
