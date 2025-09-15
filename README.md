@@ -7,6 +7,9 @@ Across three benchmark datasets (ORSSD, EORSSD, and ORI-4199), LENS-Net demonstr
 The source code is available at https://github.com/7dra/LENS-Net.
 
 ![Description](LENS-Net.png)
-
-
+# Train process
+### python train.py
+# Test process
+### python inference.py
+### python metric.py
 
