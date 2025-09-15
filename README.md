@@ -1,4 +1,4 @@
-### Title:
+### Title
 LENS-Net: Low-Energy Spiking Neural Network for Remote Sensing Saliency
 ### Abstract
 Salient object detection in optical remote sensing images (ORSI-SOD) is vital for applications such as urban planning and disaster monitoring. Yet, existing deep models remain energy-intensive and unsuitable for edge deployment. 
