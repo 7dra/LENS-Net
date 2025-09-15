@@ -1,4 +1,5 @@
-### LENS-Net: Low-Energy Spiking Neural Network for Remote Sensing Saliency
+### Title:
+LENS-Net: Low-Energy Spiking Neural Network for Remote Sensing Saliency
 ### Abstract
 Salient object detection in optical remote sensing images (ORSI-SOD) is vital for applications such as urban planning and disaster monitoring. Yet, existing deep models remain energy-intensive and unsuitable for edge deployment. 
 We tackle this challenge by proposing  a Low-Energy Spiking Network Neural for Remote Sensing Saliency(LENS-Net), the first fully spiking neural network for ORSI-SOD. LENS-Net employs a Spike-driven Transformer v3 encoder to extract multi-scale features with low energy cost, and a Spike Multi-scale Attention Decoder that fuses contextual cues via spike-driven channel attention and up-convolution, ensuring effective saliency representation under sparse computation. 
