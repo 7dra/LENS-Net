@@ -70,7 +70,7 @@ python metric.py
 ```
 
 
-## 🖼️ Visualization of saliency prediction maps by different methods on the EORSSD dataset
+## 🖼️ Comparative experiment of LENS-Net on three datasets.
 
 <div align="center">
 <img width="800" alt="image" src="figures/compriment_experiment.png?raw=true">
@@ -82,7 +82,13 @@ python metric.py
 We compare our method against 6 state-of-the-art methods.
 </div>
 
-## ✨ Visualization ablation studies on the ORSSD dataset
+## 🖼️ Ablation experiment of LENS-Net on ORSSD dataset.
+
+<div align="center">
+<img width="400" alt="image" src="figures/ABLATION.png?raw=true">
+</div>
+
+## ✨ Visualization of saliency prediction maps by different methods on the EORSSD dataset 
 
 <div align="center">
 <img width="800" alt="image" src="figures/comparative.png?raw=true">
@@ -92,7 +98,7 @@ We compare our method against 6 state-of-the-art methods.
 Performance comparison with ten SOTA methods on 5 datasets.
 </div>
 
-## 🖼️ Visualization of Ablation Results
+## 🖼️ Visualization ablation studies on the ORSSD dataset
 
 <div align="center">
 <img width="800" alt="image" src="figures/ablatio_study.png?raw=true">
