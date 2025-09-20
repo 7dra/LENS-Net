@@ -16,20 +16,20 @@ Moreover, a {sigmoid-based soft surrogate gradient} replaces hard truncation, st
 Across three benchmark datasets (ORSSD, EORSSD, and ORI-4199), LENS-Net demonstrates outstanding performance while maintaining high energy efficiency, outperforming all lightweight ANN counterparts. For instance, on the ORSSD dataset under a timestep T=4 during inference, it achieves a $S_{\alpha}$ of 92.79\%, an $MAE$ of 0.0109, and consumes only 11.48 mJ of energy. These results establish an efficient, low-energy solution for practical ORSI-SOD deployment.
 The source code is available at https://github.com/7dra/LENS-Net.
 
-## 🚀 Introduction
+## 🚀 Contribution
 
-<div align="center">
-    <img width="1000" alt="image" src="LENS-Net.png?raw=true">
-</div>
-
-The challenges: .
+\begin{itemize}
+  \item We present the first SNN-based method for ORSI-SOD, filling an important gap and establishing a strong baseline for future neuromorphic research in remote sensing.
+  \item We design a novel multi-scale spiking decoder termed as SpikeMAD, which incorporates membrane potential residual connections and a multi-scale fusion strategy to achieve efficient and effective feature integration in remote sensing imagery.
+  \item We propose a soft-clip spike firing approximation backpropagation function that ensures smooth gradient transitions, eliminates discontinuities from hard truncation, and enhances boundary recognition in salient object detection.
+  \item Extensive experiments on three benchmark datasets demonstrate that LENS-Net achieves superior accuracy compared to all lightweight ANN counterparts, while consuming significantly less energy (e.g., only 11.61 mJ on ORSSD with $T=4$).
+\end{itemize}
 
 ## 📻 Overview
 
 <div align="center">
-<img width="800" alt="image" src="figures/network.png?raw=true">
+    <img width="1000" alt="image" src="LENS-Net.png?raw=true">
 </div>
-
 Illustration of the overall architecture.
 
 
