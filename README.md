@@ -20,16 +20,12 @@ The source code is available at https://github.com/7dra/LENS-Net.
 
 - **First SNN-based ORSI-SOD Method**  
   We present the first SNN-based method for ORSI-SOD, filling an important gap and establishing a strong baseline for future neuromorphic research in remote sensing.
-
 - **Novel Multi-scale Spiking Decoder (SpikeMAD)**  
   We design a novel multi-scale spiking decoder termed as SpikeMAD, which incorporates membrane potential residual connections and a multi-scale fusion strategy to achieve efficient and effective feature integration in remote sensing imagery.
-
 - **Soft-Clip Spike Firing Approximation**  
   We propose a soft-clip spike firing approximation backpropagation function that ensures smooth gradient transitions, eliminates discontinuities from hard truncation, and enhances boundary recognition in salient object detection.
-
 - **Extensive Experimental Validation**  
   Extensive experiments on three benchmark datasets demonstrate that LENS-Net achieves superior accuracy compared to all lightweight ANN counterparts, while consuming significantly less energy (e.g., only 11.61 mJ on ORSSD with T=4).
-
 
 <div align="center">
     <img width="1000" alt="image" src="LENS-Net.png?raw=true">
