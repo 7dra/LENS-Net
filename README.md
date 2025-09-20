@@ -51,10 +51,8 @@ conda install pytorch==2.2.0 torchvision==0.17.0 torchaudio==2.2.0 -c pytorch
 
 ### 2. Prepare Datasets
 
-- Download datasets: ISIC2018 from this [link](https://challenge.isic-archive.com/data/#2018).
+- Download datasets: EORSSD, ORSSD, ORI-4199 from this [link]([https://challenge.isic-archive.com/data/#2018](https://drive.google.com/file/d/1kc6R0VbIOIrLCvtR2iG-XK_ZRWtjbw0y/view?usp=drive_link)).
 
-
-- Folder organization: put datasets into ./data/datasets folder.
 
 ### 3. Train the Net
 
