@@ -70,7 +70,7 @@ python metric.py
 ```
 
 
-## 🖼️ Visualization
+## 🖼️ Visualization of saliency prediction maps by different methods on the EORSSD dataset
 
 <div align="center">
 <img width="800" alt="image" src="figures/compriment_experiment.png?raw=true">
@@ -82,7 +82,7 @@ python metric.py
 We compare our method against 6 state-of-the-art methods.
 </div>
 
-## ✨ Quantitative comparison
+## ✨ Visualization ablation studies on the ORSSD dataset
 
 <div align="center">
 <img width="800" alt="image" src="figures/comparative.png?raw=true">
