@@ -31,7 +31,7 @@ The source code is available at https://github.com/7dra/LENS-Net.
     <img width="1000" alt="image" src="LENS-Net.png?raw=true">
 </div>
 <div align="center">
-    Illustration of the overall architecture.
+    Illustration of our LENS-Net
 </div>
 
 
