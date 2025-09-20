@@ -1,25 +1,11 @@
-### Title
-
-### Abstract
-
-
-![Description](LENS-Net.png)
-### Training process
-```bash
-python train.py
-```
-### Testing process
-```bash
-python inference.py
-python metric.py
 ```
 <div align="center">
-<h1> Your paper title </h1>
+<h1> LENS-Net: Low-Energy Spiking Neural Network for Remote Sensing Saliency </h1>
 </div>
 
 ## 🎈 News
 
-[2025.9.20] Training and testing code released.
+[2025.9.15] Training and testing code released.
 
 
 
@@ -84,7 +70,8 @@ python train.py
 ### 3. Test the Net
 
 ```
-python test.py
+python inference.py
+python metric.py
 ```
 
 ### 3. Code example
