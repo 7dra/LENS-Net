@@ -98,18 +98,10 @@ We compare our method against 6 state-of-the-art methods.
 Performance comparison with ten SOTA methods on 5 datasets.
 </div>
 
-## 🖼️ Visualization ablation studies on the ORSSD dataset
+## ✨ Visualization ablation studies on the ORSSD dataset
 
 <div align="center">
 <img width="800" alt="image" src="figures/ablatio_study.png?raw=true">
-</div>
-
-
-
-## 🖼️ Convergence Analysis
-
-<div align="center">
-<img width="800" alt="image" src="figures/curve.png?raw=true">
 </div>
 
 
