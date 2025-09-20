@@ -73,10 +73,10 @@ python metric.py
 ## 🖼️ Comparative experiment of LENS-Net on three datasets.
 
 <div align="center">
-<img width="700" alt="image" src="figures/compriment_experiment.png?raw=true">
+<img width="900" alt="image" src="figures/compriment_experiment.png?raw=true">
 </div>
 <div align="center">
-<img width="300" alt="image" src="figures/compriment_experiment2.png?raw=true">
+<img width="500" alt="image" src="figures/compriment_experiment2.png?raw=true">
 </div>
 <div align="center">
 We compare our method against 6 state-of-the-art methods.
