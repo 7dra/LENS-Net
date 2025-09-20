@@ -81,7 +81,7 @@ python Test/test_example.py
 <img width="800" alt="image" src="figures/compriment_experiment.png?raw=true">
 </div>
 <div align="center">
-<img width="800" alt="image" src="figures/compriment_experiment2.png?raw=true">
+<img width="400" alt="image" src="figures/compriment_experiment2.png?raw=true">
 </div>
 <div align="center">
 We compare our method against 6 state-of-the-art methods.
