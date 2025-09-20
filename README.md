@@ -78,17 +78,19 @@ python Test/test_example.py
 ## 🖼️ Visualization
 
 <div align="center">
-<img width="800" alt="image" src="figures/com_pic.png?raw=true">
+<img width="800" alt="image" src="figures/compriment_experiment.png?raw=true">
 </div>
-
 <div align="center">
-We compare our method against 13 state-of-the-art methods. The red box indicates the area of incorrect predictions.
+<img width="400" alt="image" src="figures/compriment_experiment2.png?raw=true">
+</div>
+<div align="center">
+We compare our method against 6 state-of-the-art methods.
 </div>
 
 ## ✨ Quantitative comparison
 
 <div align="center">
-<img width="800" alt="image" src="figures/com_tab.png?raw=true">
+<img width="800" alt="image" src="figures/comparative.pdf?raw=true">
 </div>
 
 <div align="center">
@@ -98,7 +100,7 @@ Performance comparison with ten SOTA methods on 5 datasets.
 ## 🖼️ Visualization of Ablation Results
 
 <div align="center">
-<img width="800" alt="image" src="figures/aba.png?raw=true">
+<img width="800" alt="image" src="figures/ablatio_study.pdf?raw=true">
 </div>
 
 
