@@ -69,11 +69,6 @@ python inference.py
 python metric.py
 ```
 
-### 3. Code example
-
-```
-python Test/test_example.py
-```
 
 ## 🖼️ Visualization
 
