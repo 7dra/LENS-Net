@@ -90,7 +90,7 @@ We compare our method against 6 state-of-the-art methods.
 ## ✨ Quantitative comparison
 
 <div align="center">
-<img width="800" alt="image" src="figures/comparative.pdf?raw=true">
+<img width="800" alt="image" src="figures/comparative.png?raw=true">
 </div>
 
 <div align="center">
@@ -100,7 +100,7 @@ Performance comparison with ten SOTA methods on 5 datasets.
 ## 🖼️ Visualization of Ablation Results
 
 <div align="center">
-<img width="800" alt="image" src="figures/ablatio_study.pdf?raw=true">
+<img width="800" alt="image" src="figures/ablatio_study.png?raw=true">
 </div>
 
 
