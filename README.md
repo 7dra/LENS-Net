@@ -28,7 +28,7 @@ The source code is available at https://github.com/7dra/LENS-Net.
   Extensive experiments on three benchmark datasets demonstrate that LENS-Net achieves superior accuracy compared to all lightweight ANN counterparts, while consuming significantly less energy (e.g., only 11.61 mJ on ORSSD with T=4).
 
 <div align="center">
-    <img width="1000" alt="image" src="figures/LENS-Net.png?raw=true">
+    <img width="800" alt="image" src="figures/LENS-Net.png?raw=true">
 </div>
 <div align="center">
     Illustration of our LENS-Net
@@ -73,10 +73,10 @@ python metric.py
 ## 🖼️ Comparative experiment of LENS-Net on three datasets.
 
 <div align="center">
-<img width="800" alt="image" src="figures/compriment_experiment.png?raw=true">
+<img width="700" alt="image" src="figures/compriment_experiment.png?raw=true">
 </div>
 <div align="center">
-<img width="400" alt="image" src="figures/compriment_experiment2.png?raw=true">
+<img width="300" alt="image" src="figures/compriment_experiment2.png?raw=true">
 </div>
 <div align="center">
 We compare our method against 6 state-of-the-art methods.
@@ -85,13 +85,13 @@ We compare our method against 6 state-of-the-art methods.
 ## 🖼️ Ablation experiment of LENS-Net on ORSSD dataset.
 
 <div align="center">
-<img width="400" alt="image" src="figures/ABLATION.png?raw=true">
+<img width="300" alt="image" src="figures/ABLATION.png?raw=true">
 </div>
 
 ## ✨ Visualization of saliency prediction maps by different methods on the EORSSD dataset 
 
 <div align="center">
-<img width="800" alt="image" src="figures/comparative.png?raw=true">
+<img width="700" alt="image" src="figures/comparative.png?raw=true">
 </div>
 
 <div align="center">
@@ -101,13 +101,13 @@ Performance comparison with ten SOTA methods on 5 datasets.
 ## ✨ Visualization ablation studies on the ORSSD dataset
 
 <div align="center">
-<img width="500" alt="image" src="figures/ablatio_study.png?raw=true">
+<img width="300" alt="image" src="figures/ablatio_study.png?raw=true">
 </div>
 
 ##  💡 Layer-wise average spiking firing rates of LENS-Net on the EORSSD test dataset(600 images)
 
 <div align="center">
-<img width="800" alt="image" src="figures/fire_rate.png?raw=true">
+<img width="400" alt="image" src="figures/fire_rate.png?raw=true">
 </div>
 
 ## 🎫 License
