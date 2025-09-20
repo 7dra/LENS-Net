@@ -69,13 +69,8 @@ python inference.py
 python metric.py
 ```
 
-### 3. Code example
 
-```
-python Test/test_example.py
-```
-
-## 🖼️ Visualization
+## 🖼️ Comparative experiment of LENS-Net on three datasets.
 
 <div align="center">
 <img width="800" alt="image" src="figures/compriment_experiment.png?raw=true">
@@ -87,28 +82,26 @@ python Test/test_example.py
 We compare our method against 6 state-of-the-art methods.
 </div>
 
-## ✨ Quantitative comparison
+## 🖼️ Ablation experiment of LENS-Net on ORSSD dataset.
 
 <div align="center">
-<img width="800" alt="image" src="figures/comparative.pdf?raw=true">
+<img width="400" alt="image" src="figures/ABLATION.png?raw=true">
+</div>
+
+## ✨ Visualization of saliency prediction maps by different methods on the EORSSD dataset 
+
+<div align="center">
+<img width="800" alt="image" src="figures/comparative.png?raw=true">
 </div>
 
 <div align="center">
 Performance comparison with ten SOTA methods on 5 datasets.
 </div>
 
-## 🖼️ Visualization of Ablation Results
+## ✨ Visualization ablation studies on the ORSSD dataset
 
 <div align="center">
-<img width="800" alt="image" src="figures/ablatio_study.pdf?raw=true">
-</div>
-
-
-
-## 🖼️ Convergence Analysis
-
-<div align="center">
-<img width="800" alt="image" src="figures/curve.png?raw=true">
+<img width="800" alt="image" src="figures/ablatio_study.png?raw=true">
 </div>
 
 
