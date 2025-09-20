@@ -28,7 +28,7 @@ The source code is available at https://github.com/7dra/LENS-Net.
   Extensive experiments on three benchmark datasets demonstrate that LENS-Net achieves superior accuracy compared to all lightweight ANN counterparts, while consuming significantly less energy (e.g., only 11.61 mJ on ORSSD with T=4).
 
 <div align="center">
-    <img width="1000" alt="image" src="LENS-Net.png?raw=true">
+    <img width="1000" alt="image" src="figures/LENS-Net.png?raw=true">
 </div>
 <div align="center">
     Illustration of our LENS-Net
@@ -44,15 +44,9 @@ The source code is available at https://github.com/7dra/LENS-Net.
 ### 1. Install Environment
 
 ```
-conda create -n Net python=3.8
-conda activate Net
-pip install torch==1.13.0 torchvision==0.14.0 torchaudio==0.13.0 --extra-index-url https://download.pytorch.org/whl/cu117
-pip install packaging
-pip install timm==0.4.12
-pip install pytest chardet yacs termcolor
-pip install submitit tensorboardX
-pip install triton==2.0.0
-pip install scikit-learn matplotlib thop h5py SimpleITK scikit-image medpy yacs PyWavelets
+conda create -n LENS_Net python=3.8
+conda activate LENS_Net
+conda install pytorch==2.2.0 torchvision==0.17.0 torchaudio==2.2.0 -c pytorch
 ```
 
 ### 2. Prepare Datasets
