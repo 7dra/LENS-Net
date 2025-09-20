@@ -106,6 +106,3 @@ Performance comparison with ten SOTA methods on 5 datasets.
 <img width="500" alt="image" src="figures/fire_rate.png?raw=true">
 </div>
 
-## 🎫 License
-
-The content of this project itself is licensed under Your License url.
