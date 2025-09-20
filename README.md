@@ -104,8 +104,11 @@ Performance comparison with ten SOTA methods on 5 datasets.
 <img width="800" alt="image" src="figures/ablatio_study.png?raw=true">
 </div>
 
+##  [烟花] Layer-wise average spiking firing rates of LENS-Net on the EORSSD test dataset(600 images)
 
-
+<div align="center">
+<img width="800" alt="image" src="figures/fire_rate.png?raw=true">
+</div>
 
 ## 🎫 License
 
