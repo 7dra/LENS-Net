@@ -19,7 +19,7 @@ The source code is available at https://github.com/7dra/LENS-Net.
 ## 🚀 Introduction
 
 <div align="center">
-    <img width="400" alt="image" src="LENS-Net.png?raw=true">
+    <img width="800" alt="image" src="LENS-Net.png?raw=true">
 </div>
 
 The challenges: .
