@@ -7,7 +7,6 @@
 [2025.9.15] Training and testing code released.
 
 
-
 ## ⭐ Abstract
 
 Salient Object Detection in Optical Remote Sensing Images (ORSI-SOD) is vital for applications such as urban planning and disaster monitoring. Yet, existing deep models remain energy-intensive and unsuitable for edge deployment. 
@@ -53,13 +52,13 @@ conda install pytorch==2.2.0 torchvision==0.17.0 torchaudio==2.2.0 -c pytorch
 - Download datasets: EORSSD, ORSSD, ORI-4199 from this [link]([https://challenge.isic-archive.com/data/#2018](https://drive.google.com/file/d/1kc6R0VbIOIrLCvtR2iG-XK_ZRWtjbw0y/view?usp=drive_link)).
 
 
-### 3. Train the Net
+### 3. Train the LENS-Net
 
 ```
 python train.py
 ```
 
-### 3. Test the Net
+### 3. Test the LENS-Net
 
 ```
 python inference.py
@@ -75,14 +74,14 @@ python metric.py
 <div align="center">
 <img width="500" alt="image" src="figures/compriment_experiment2.png?raw=true">
 </div>
-<div align="center">
+<!-- <div align="center">
 We compare our method against 6 state-of-the-art methods.
-</div>
+</div> -->
 
 ## 🖼️ Ablation experiment of LENS-Net on ORSSD dataset.
 
 <div align="center">
-<img width="300" alt="image" src="figures/ABLATION.png?raw=true">
+<img width="400" alt="image" src="figures/ABLATION.png?raw=true">
 </div>
 
 ## ✨ Visualization of saliency prediction maps by different methods on the EORSSD dataset 
