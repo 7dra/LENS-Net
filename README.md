@@ -1,4 +1,3 @@
-```
 <div align="center">
 <h1> LENS-Net: Low-Energy Spiking Neural Network for Remote Sensing Saliency </h1>
 </div>
