@@ -4,8 +4,8 @@
 
 ## 🎈 News
 
-[2025.9.15] Training and testing code released.Detailed training documentation can be found at: https://drive.google.com/file/d/1fMjudP00lgK03j9SPUTEv0xFbZpjxkDt/view?usp=drive_link
-[2025.11.18]. 
+[2025.9.15] Training and testing code released.
+[2025.11.18]. Detailed training documentation can be found at: https://drive.google.com/file/d/1fMjudP00lgK03j9SPUTEv0xFbZpjxkDt/view?usp=drive_link.
 
 
 ## ⭐ Abstract
