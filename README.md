@@ -6,7 +6,6 @@
 
 [2025.9.15] Training and testing code released.
 
-[2025.11.18]. Detailed training documentation can be found at: https://drive.google.com/file/d/1fMjudP00lgK03j9SPUTEv0xFbZpjxkDt/view?usp=drive_link.
 
 
 ## ⭐ Abstract
@@ -107,4 +106,8 @@ Performance comparison with ten SOTA methods on 5 datasets.
 <div align="center">
 <img width="500" alt="image" src="figures/fire_rate.png?raw=true">
 </div>
+
+# Checkpoint
+
+A checkpoint can be downloaded from [Google Drive](https://drive.google.com/file/d/1fMjudP00lgK03j9SPUTEv0xFbZpjxkDt/view?usp=drive_link).
 
