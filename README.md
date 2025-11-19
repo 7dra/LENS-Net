@@ -107,7 +107,7 @@ Performance comparison with ten SOTA methods on 5 datasets.
 <img width="500" alt="image" src="figures/fire_rate.png?raw=true">
 </div>
 
-# Checkpoint
+# 😄Checkpoint
 
 A checkpoint can be downloaded from [Google Drive](https://drive.google.com/file/d/1fMjudP00lgK03j9SPUTEv0xFbZpjxkDt/view?usp=drive_link).
 
