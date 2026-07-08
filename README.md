@@ -5,6 +5,7 @@
 ## 🎈 News
 
 [2025.9.15] Training and testing code released.
+[2026.5.29] Our paper was accepted by Neurocomputing.(Paper link: https://www.sciencedirect.com/science/article/pii/S0925231226015328)
 
 
 
